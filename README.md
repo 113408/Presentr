@@ -1,3 +1,4 @@
+*This is a fork of the original [Presentr](https://github.com/IcaliaLabs/Presentr)*
 <img src="http://danielozano.com/Presentr/Screenshots/PresentrLogo.png" width="700">
 
 [![Version](https://img.shields.io/cocoapods/v/Presentr.svg?style=flat)](http://cocoapods.org/pods/Presentr)
@@ -21,6 +22,9 @@ This can be cumbersome, specially if you do it multiple times in your app. **Pre
 *These are just examples of an Alert UI presented in multiple ways. But, with Presentr you can present any custom View Controller you create in any of the Presentation types, or create your own custom one!*
 
 ## What's New
+#### 1.4
+- Swift 4.2 / Xcode 10 / iOS 12 Support
+- Warning fixes
 
 #### 1.3.1 (April 15/ 2018)
 - New `FlipHorizontal` transition type (thanks to @falkobuttler)
